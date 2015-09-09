@@ -20,8 +20,8 @@ void print_options (InfoMenuPtr Menu, InfoMenuPtr CafeMenu)
 			printf("to estiatorio\n");
 	}
 	printf("\n"); 			/*aisthitikoi logoi*/
-	printf("1.  Αλλαγή Μαγαζιού\n");
-	printf("2.  Dimiourgia Menou\n");
+	printf("1.  Change shop\n");
+	printf("2.  Create Menu\n");
 	printf("3.  Elegxos kenis katigorias\n");
 	printf("4.  Eisagogi komvou\n");
 	printf("5.  Ektuposi periexomenon komvou\n");
